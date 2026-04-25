@@ -8,10 +8,35 @@
     <description>A personalized AI-generated podcast.</description>
     <language>zh</language>
     <atom:link href="https://jaimeding.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+
+    <!-- Show artwork -->
+    <image>
+      <url>https://jaimeding.github.io/podcast-feed/cover-art.png</url>
+      <title>My Podcast</title>
+      <link>https://jaimeding.github.io/podcast-feed</link>
+    </image>
+    <itunes:image href="https://jaimeding.github.io/podcast-feed/cover-art.png"/>
+
+    <!-- Podcast player metadata -->
     <itunes:author>My Podcast</itunes:author>
     <itunes:summary>A personalized AI-generated podcast.</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    
+    <item>
+      <title>LLM如何颠覆技术扩散规律 — Karpathy</title>
+      <description>解读 Andrej Karpathy 文章：大语言模型为何让普通人成为最大受益者</description>
+      <pubDate>Sat, 25 Apr 2026 08:21:57 GMT</pubDate>
+      <enclosure url="https://jaimeding.github.io/podcast-feed/episodes/2026-04-25-161401.mp3"
+                 length="4076973"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jaimeding.github.io/podcast-feed/episodes/2026-04-25-161401.mp3</guid>
+      <itunes:duration>4:14</itunes:duration>
+      <itunes:summary>解读 Andrej Karpathy 文章：大语言模型为何让普通人成为最大受益者</itunes:summary>
+    </item>
+    
   </channel>
 </rss>
