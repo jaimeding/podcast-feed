@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders 简报 — 2026年4月25日</title>
+      <description>GPT-5.5正式开放API、杰文斯悖论与AI就业、Anthropic Managed Agents架构、NotebookLM更新、Cursor适配GPT-5.5等</description>
+      <pubDate>Sat, 25 Apr 2026 08:40:52 GMT</pubDate>
+      <enclosure url="https://jaimeding.github.io/podcast-feed/episodes/2026-04-25-163959.mp3"
+                 length="6400557"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jaimeding.github.io/podcast-feed/episodes/2026-04-25-163959.mp3</guid>
+      <itunes:duration>6:39</itunes:duration>
+      <itunes:summary>GPT-5.5正式开放API、杰文斯悖论与AI就业、Anthropic Managed Agents架构、NotebookLM更新、Cursor适配GPT-5.5等</itunes:summary>
+    </item>
+    
+    <item>
       <title>LLM如何颠覆技术扩散规律 — Karpathy</title>
       <description>解读 Andrej Karpathy 文章：大语言模型为何让普通人成为最大受益者</description>
       <pubDate>Sat, 25 Apr 2026 08:21:57 GMT</pubDate>
