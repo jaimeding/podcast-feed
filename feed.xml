@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI 每日观察 2026-04-26：通用大模型故事讲完了，四层开始分蛋糕</title>
+      <description>今日 AI 观察：Cohere×Aleph Alpha 合并开启主权 AI、Anthropic Agent Marketplace 实验、Zilliz Claude-Context 与 MCP 成为事实标准、Intel 大涨 27% 算力周期重新点火、福布斯 AI 50 榜单寡头化信号。核心叙事：四层结构——主权层 / Agent 经济层 / 基础设施层 / 应用层。</description>
+      <pubDate>Sun, 26 Apr 2026 06:21:02 GMT</pubDate>
+      <enclosure url="https://jaimeding.github.io/podcast-feed/episodes/2026-04-26-142045.mp3"
+                 length="6528813"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jaimeding.github.io/podcast-feed/episodes/2026-04-26-142045.mp3</guid>
+      <itunes:duration>6:47</itunes:duration>
+      <itunes:summary>今日 AI 观察：Cohere×Aleph Alpha 合并开启主权 AI、Anthropic Agent Marketplace 实验、Zilliz Claude-Context 与 MCP 成为事实标准、Intel 大涨 27% 算力周期重新点火、福布斯 AI 50 榜单寡头化信号。核心叙事：四层结构——主权层 / Agent 经济层 / 基础设施层 / 应用层。</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders 简报 — 2026年4月25日</title>
       <description>GPT-5.5正式开放API、杰文斯悖论与AI就业、Anthropic Managed Agents架构、NotebookLM更新、Cursor适配GPT-5.5等</description>
       <pubDate>Sat, 25 Apr 2026 08:40:52 GMT</pubDate>
