@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest 2026-04-27：Gell-Mann amnesia、Agent 宪法与 Claude auto mode</title>
+      <description>两位 AI host 聊今天的 AI Builders Digest：Vercel Guillermo Rauch 谈 coding agent 是 superintelligence 的地基；Box Aaron Levie 的 Gell-Mann amnesia 冷水；YC Garry Tan 拆 agent 人格宪法（SOUL.md/USER.md/AGENTS.md）；Sam Altman 喊重新设计 OS/UI/网络协议；Roblox Peter Yang 的 MCP + 个人工具实践；OpenClaw Peter Steinberger 数据回本地+算力爆云端；Anthropic Engineering 发布 Claude Code auto mode 的 reasoning-blind classifier 双层防御；AI and I 与 Logical Intelligence Eve 聊 EBM vs LLM 的可验证性之争。</description>
+      <pubDate>Tue, 28 Apr 2026 00:09:54 GMT</pubDate>
+      <enclosure url="https://jaimeding.github.io/podcast-feed/episodes/2026-04-28-080939.mp3"
+                 length="9284013"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jaimeding.github.io/podcast-feed/episodes/2026-04-28-080939.mp3</guid>
+      <itunes:duration>9:40</itunes:duration>
+      <itunes:summary>两位 AI host 聊今天的 AI Builders Digest：Vercel Guillermo Rauch 谈 coding agent 是 superintelligence 的地基；Box Aaron Levie 的 Gell-Mann amnesia 冷水；YC Garry Tan 拆 agent 人格宪法（SOUL.md/USER.md/AGENTS.md）；Sam Altman 喊重新设计 OS/UI/网络协议；Roblox Peter Yang 的 MCP + 个人工具实践；OpenClaw Peter Steinberger 数据回本地+算力爆云端；Anthropic Engineering 发布 Claude Code auto mode 的 reasoning-blind classifier 双层防御；AI and I 与 Logical Intelligence Eve 聊 EBM vs LLM 的可验证性之争。</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI 每日观察 2026-04-27：从模型为王切到工具为王</title>
       <description>今日 AI 观察：DeepSeek 开源 DeepEP 通信库继续卷成本、Roo-Code 把多 agent 团队装进 VS Code、Claude Code 生态出现绕开官方 API 的开源项目、OpenAI 抛出 AGI 五原则占位话语权、深圳 AI 产业营收破 2200 亿、南非 AI 政策因 LLM 编造引用被撤回。三件事同时在发生：基础设施层继续卷成本 / 开发工具层从单 agent 转向多 agent / 治理层正视 AI 落地真实风险。</description>
       <pubDate>Mon, 27 Apr 2026 07:51:34 GMT</pubDate>
